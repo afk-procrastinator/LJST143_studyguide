@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8 - Narrating the History of the Other.md",
+            "file": "4 - The Making of Constitutional History — Precedent.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - Narrating the History of the Other.md",
+                "file": "4 - The Making of Constitutional History — Precedent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - Narrating the History of the Other.md"
+                "file": "4 - The Making of Constitutional History — Precedent.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - Narrating the History of the Other.md",
+                "file": "4 - The Making of Constitutional History — Precedent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,8 @@
   },
   "active": "5194c610eeb88618",
   "lastOpenFiles": [
+    "4 - The Making of Constitutional History — Precedent.md",
+    "3 - The Weight of History – The Common Law Tradition.md",
     "8 - Narrating the History of the Other.md",
     "7 - History and Liberal Ideology — The Continental Enlightenment and its Others.md",
     "9 - Law and Historical Trauma.md",
@@ -146,8 +148,6 @@
     "central list.md",
     "reading categories.md",
     "case summaries.md",
-    "6 - Legal Temporality.md",
-    "5 - The Logic of History — Originalism.md",
-    "4 - The Making of Constitutional History — Precedent.md"
+    "6 - Legal Temporality.md"
   ]
 }

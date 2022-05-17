@@ -166,8 +166,114 @@ complete:: 2/3
 	- acts of parliaments must be **possible** to be acted 
 - centrality of equity:
 > 	These are the several grounds of the laws of England: over and above which, equity is also frequently called in to assist, to moderate, and to explain it. What equity is, and how impossible in it's very essence to be reduced to stated rules, hath been shewn in the preceding section. I shall therefore only add, that there are courts of this kind established for the benet of the subject, to correct and soften the rigor of the law, when through it's generality it bears too hard in particular cases; to detect and punish latent frauds, which the law is not minute enough to reach; to enforce the execution of such matters of trust and condence, as are binding in conscience, though perhaps not strictly legal; to deliver from such dangers as are owing to misfortune or oversight; and, in short, to relieve in all such cases as are, bona fide, objects of relief. This is the business of our courts of equity, which however are only conversant in matters of property. For the freedom of our constitution will not permit, that in criminal cases a power should be lodged in any judge, to construe the law otherwise than according to the letter. This caution, while it admirably protects the public liberty, can never bear hard upon individuals. A man cannot suer more punishment than the law assigns, but he may suer less. The laws cannot be strained by partiality to inict a penalty beyond what the letter will warrant; but in cases where the letter induces any apparent hardship, the crown has the power to pardon.
-## [[Parker; ch. 1.pdf]], [[Parker; ch. 3.pdf]], [[Parker; misc pages.pdf]]^7469ac
+## [[Parker; ch. 1.pdf]], [[Parker; ch. 3.pdf]], [[Parker; misc pages.pdf]]
+
+^7469ac
+
 ### introduction, chapter 1:
+#### common law, democracy, history: a modernist tradition of reading the past
+- common law used widely across the US until end of 19th century
+	- very english, judicial so anti-democratic, etc. 
+- kent quote on 1-2
+	- CL as very wide, fills space that statute law can't fill
+	- it's another language we must learn
+- so why it was used in the US:
+	- ideological freight — hard to imagine a US constitution without CL at the time
+	- US state played less of a role before the 20th — so big gap in economy and society 
+- 19th c.: imagining how democracy, CL, history can coexist:
+	- "They reveal different conceptions of how law, history, and democracy related to one another, different modes of historicizing law, and different ways of thinking about history itself." — 3
+- modernist tradition of these aspects has covered up understanding CL
+	- so must understand modernist les before we understand CL
+- in end of 19th/early 20th century, focus changed — economy, industry, capital
+	- won over democracy, etc. 
+- case in 1905 — Lochner v New York, labour hour case (mentioned in scalia?)
+	- read CL freedoms into 14th amendment
+	- symbol of judicial overreach
+- "Progressive Era" — people critiqued the use of CL witthin it 
+	- CL as retreating at the New Deal
+- for democracy to "win," law had to be a species of politics 
+- characteristics of modernism: pg 5
+	- all results in an erosion between law and politics 
+		- through a reflection of history — gets rid of moralistic, logical, suprahistorical foundations
+		- Holmes saw CL as "insensitive" to history
+			- law as "experience" not logic
+> 				But the common law, Holmes suggested, was ultimately irreducible to logic. Logic was not its foundation. Like all law, the common law had to be seen, instead, as the product of nothing but history, as something that had arisen and developed in time, as something without ahistorical foundations
+> 				
+- also, CL as repeating the past for no reason
+- for law to be just, it had to be just in the present as a matter of self-reflection — can't just be blindly looking at the past 
+	- various aspects of CL — logic and precedent oriented
+		- logic was newer, precedent was much older
+> 			What unifies Holmes’s twin critiques of the common law is his mod ernist conception of history. For Holmes, history is the heretical or icon oclastic practice of revealing the merely temporal origins of phenomena in order to dismantle the foundations upon which such phenomena rest, whether those foundations be the logic allegedly underlying law or the accumulated weight of law’s past that authorizes its own repetition. Once the temporal origins of phenomena have been identified and their foun dations undermined, however, no underlying order, instantiated in an unfolding historical time, becomes visible. In other words, history pos sesses no necessary or coherent direction or meaning. It simply sweeps away foundations, clears ground, and invites self-reflection. Law’s foun dations may be dismantled in the name of history, but we are given no substitute foundations. We are told to think about what we might want law to be. — 7
+- logic could be used against democracy, but his focus was on law more so
+	- if law is based temporally, how does one distinguish between law+politics? 
+- Holmes helped get rid of the idea that legal thought independent of politics and separate from society — pushed into  20th century
+	- law began to move into the "present"
+	- idea of law as a science, necessitating scientific methods and materials, etc. 
+- argues that the erosion btwn law and politics has become authoritative, traditionalist
+	- a feeling that CL was overreaching, looking from a modernist view
+- looking back to pragmatism — looking at how principles change over time
+	- but taking this view makes it harder to look at the past, makes it seem like a random collection of decisions, hard to figure out definitions and relations of things
+- look to the world *before* the modernist reconstruction, helps understand CL more
+	- and applicable to today!
+#### nineteenth century common law thought
+> In order to begin exploring the relationships among democracy, law, and history before modernism, one has to distance oneself from one of the critical assumptions of modernist historical thought, namely that an iconoclastic dismantling of the foundations of phenomena through the technique of revealing their temporal origins will clear ground, enable critical self-reflection, and open up the world for reimagining and remaking. — 11
+- lets us imagine the subject as fully blank, unconstrained, unencumbered
+- 19th c had a lot of real restraints
+	- fall of religiousness in society as a reason CL weakened? 
+	- the kinds of imagined limits and interactions between them are what is vital! 
+- concept of democracy was new — still very suspicious
+	- i.e. checks and balances system in the constitution
+	- Carlyle: imagining that nature sets conditions with set limits on democracy
+- limits of democracy as very "normal"
+	- but people still aware of the issues in the 19th c democracy, what was happening overseas
+	- and the incompatibilities felt like restraints? 
+- two ways in which time was seen in political democracy: 
+	- nonhistorical premodern times of CL
+	- changing teleological and foundational times of 19th century
+- changes the view of holmes, makes it seem less tyrannical!
+- FIRST TIME: CL seen as ahistorical, "immemorial" 
+	- which was seen as a claim for legitemacy
+	- but both unchanging and always changing
+		- but the idea was that the changes were so slow nobody noticed them happening! 
+			- less coersive, violent, upsetting? 
+	- all this gave CL its authority! the long past
+	- idea was that when the CL judge spoke, it was perfectly mirroring the actual state of the community at the time
+		- seen as a balance of past, present, futute
+- SECOND TIME: history as a series of phenomenons, one leading to the next
+	- logic of law was difficult to ascertain 
+	- highly complex world, getting more so
+	- and a more negative view of the past — 18th/19th century americans were too exceptionalist:
+> 			Even as many in the nineteenth century saw democracy as furnishing the logic of his tory, to the extent that history was imagined to possess an underlying logic and meaning and direction, it could equally serve as a check on democracy. If history was going somewhere, in other words, it was possible to judge the activities of a democratically elected legislature in terms of that logic. Thus judged, a legislature could be “wrong” in the sense that it was guilty of flouting the logic of history.
+- example of slavery: 
+	- looking at history as the law — thus changing is an exception, against the logic (past events and precedents)
+	- both in pro and anti-slavery, democracy was limited by the logic applied to history 
+- turn to history in the overall time gave much more power to the CL 
+- how 19th c lawyers combined CL and historical sensibilities: 
+	- turned to CL to "understand" any issues facing them
+	- not quite seen as good or bad, but a tradition of general thought 
+		- time, law, society, government, etc. 
+	- but many different understandings and conceptions of history 
+		- subjecting the CL to history as a move frmo feudal to commercial 
+- issues of democracy began to appear in mid-19th century — state regulation, slavery, etc. 
+- judgement of CL in terms of logic and vocabulary of history
+- anti-foundational modernist history let us see law as subject to reform
+	- as they did in the 19th c, but from a POV where history was foundational and had inherent logic 
+- both are ways to see history — but both don't work, like modernism
+- a reflexive relationship between history and CL
+	- 19th c CL as being in both nonmodern CL and modern 19th c history 
+		- not an easy task to do! 
+- CL as surviving due to all the constant change at the time! and central to the time's development
+- CL lawyers could argue that when CL is joined with history, you can see that CL courts are better at seeing what the society wants 
+- wider breakdown resulted in new ways to look at history, the state, etc.
+#### structure of book, aka general argument
+- difference between 19th and 20th c legal thought is very similar 
+	- different, but both useful 
+- a history *of* history: 
+> To be sure, identifying the “dominant” historical imagination for any given period is fraught with perils. Over the course of the nineteenth cen tury, there were many ways of conceiving of the movement of history. Each of the periods I identify contains many different historical logics, some pointing backward to earlier periods, others anticipating future periods, yet others simply different from one another. Each period, in other words, is inevitably complex. One would expect no less. The point of identifying a period for me, then, is not to make an argument about periods, but to identify a historical imagination, unarguably influential at a particular time, and to show how it was shared, appropriated, and ~o transformed by legal thinkers. My technique has been to work back from E the principal legal texts, to rely upon the historical imagination of legal thinkers as a guide to reconstructing the historical imagination of any given period. — 24
+
+### chapter 3: common law thought after the american revolution
+#### the loneliness of consent
+
 ## [[Scalia; Common Law Courts.pdf]]
 
 ^ebe0d8
