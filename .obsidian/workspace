@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reading categories.md",
+            "file": "8 - Narrating the History of the Other.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading categories.md",
+                "file": "8 - Narrating the History of the Other.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading categories.md"
+                "file": "8 - Narrating the History of the Other.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reading categories.md",
+                "file": "8 - Narrating the History of the Other.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,13 +139,13 @@
   },
   "active": "5194c610eeb88618",
   "lastOpenFiles": [
-    "reading categories.md",
-    "central list.md",
-    "case summaries.md",
-    "10 - The Limits of Repair.md",
-    "9 - Law and Historical Trauma.md",
     "8 - Narrating the History of the Other.md",
     "7 - History and Liberal Ideology — The Continental Enlightenment and its Others.md",
+    "9 - Law and Historical Trauma.md",
+    "10 - The Limits of Repair.md",
+    "central list.md",
+    "reading categories.md",
+    "case summaries.md",
     "6 - Legal Temporality.md",
     "5 - The Logic of History — Originalism.md",
     "4 - The Making of Constitutional History — Precedent.md"

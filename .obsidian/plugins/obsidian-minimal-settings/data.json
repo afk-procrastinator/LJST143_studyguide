@@ -16,7 +16,7 @@
   "maxWidth": 88,
   "trimCols": true,
   "maxColWidth": "20em",
-  "textNormal": 16,
+  "textNormal": 15,
   "textSmall": 13,
   "imgGrid": false,
   "imgWidth": "img-default-width",
@@ -39,5 +39,6 @@
   "useSystemTheme": true,
   "folding": true,
   "lineNumbers": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "devBlockWidth": false
 }

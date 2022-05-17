@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiStickyNoteFill",
-      "FabCreativeCommonsBy",
-      "FasQuestion",
+      "FasBook",
       "FasBrain",
-      "FasBook"
+      "FasQuestion",
+      "FabCreativeCommonsBy",
+      "RiStickyNoteFill"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -27,5 +27,6 @@
   "class notes.md": "RiStickyNoteFill",
   "central.md": "RiBarChartGroupedLine",
   "outline.md": "FasMapLocation",
-  "notes/books": "FasBook"
+  "notes/books": "FasBook",
+  "texts": "FasBook"
 }
