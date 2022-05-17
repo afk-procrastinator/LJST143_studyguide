@@ -39,4 +39,7 @@
 [[6 - Legal Temporality#^70463f|Hart, Sovereign and Subject]]
 [[7 - History and Liberal Ideology — The Continental Enlightenment and its Others#^ce04e9|Mill, The Criterion of a Good Form of Government]]
 
-/git
+THIS IS A TEST OF GITHUB :)
+
+
+/commit
