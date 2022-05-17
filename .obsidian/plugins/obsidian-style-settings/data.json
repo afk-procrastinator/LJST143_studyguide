@@ -1,0 +1,22 @@
+{
+  "minimal-style@@title-weight": 650,
+  "minimal-style@@tag-radius": "0px",
+  "minimal-style@@sidebar-lines-off": false,
+  "minimal-style@@embed-strict": true,
+  "minimal-style@@active-line-on": true,
+  "minimal-style@@base@@dark": "#1A1A1A",
+  "minimal-style@@red@@dark": "#934545",
+  "minimal-style@@orange@@dark": "#906E44",
+  "minimal-style@@yellow@@dark": "#949749",
+  "minimal-style@@green@@dark": "#579749",
+  "minimal-style@@cyan@@dark": "#43868E",
+  "minimal-style@@blue@@dark": "#45618F",
+  "minimal-style@@purple@@dark": "#544794",
+  "minimal-style@@pink@@dark": "#9C4B9C",
+  "minimal-style@@bg1@@dark": "#1A1A1A",
+  "minimal-style@@bg2@@dark": "#242424",
+  "minimal-advanced@@window-title-on": false,
+  "minimal-style@@h1-variant": "all-small-caps",
+  "minimal-style@@show-grabber": false,
+  "minimal-style@@title-alignment": "title-align-left"
+}

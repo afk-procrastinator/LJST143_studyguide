@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "7f3831a24308c864",
+    "type": "split",
+    "children": [
+      {
+        "id": "016b59d81540a797",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "central note-taking, brainstorming, etc..md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b861180a08eab1b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3fa6374a7f4b34a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc90c7a4a8e57ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6921b4cbfbdeeb85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "class",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84399c679b3107e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.0008087158203
+  },
+  "right": {
+    "id": "70355b09eb671e00",
+    "type": "split",
+    "children": [
+      {
+        "id": "a58aaf827adab335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1f20b71ededfc67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "central note-taking, brainstorming, etc..md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9746cd7887070b10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "central note-taking, brainstorming, etc..md"
+              }
+            }
+          },
+          {
+            "id": "76b3274ca919795c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "central note-taking, brainstorming, etc..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6167d675162cb25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 184.45989990234375,
+    "collapsed": true
+  },
+  "active": "016b59d81540a797",
+  "lastOpenFiles": [
+    "central note-taking, brainstorming, etc..md",
+    "class notes.md",
+    "files/full texts/serres/The Natural Contract.pdf",
+    "war, violence, legal state.md",
+    "Mick Smith (2012) Malfeasance- Appropriation Through Pollution?, Social & Cultural Geography.pdf.md",
+    "misc/all files.md",
+    "misc/playground.md",
+    "misc/initial forum post.md",
+    "template/template.md",
+    "template/Untitled mindmap.md"
+  ]
+}
