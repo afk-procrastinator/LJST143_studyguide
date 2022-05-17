@@ -2,7 +2,7 @@
 ```
 number:: 2
 count:: 3
-complete:: 2/3
+complete:: 3/3, cases
 ```
 # texts:
 ## [[Commonwealth v Webster.pdf]]

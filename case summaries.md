@@ -51,7 +51,13 @@ No.
 The Court held that Herrera's claim of actual innocence based on newly discovered evidence was not a ground for federal habeas corpus relief absent an independent constitutional violation. According to the Court, the State met its burden of proving that the inmate was guilty of the capital murder beyond a reasonable doubt at trial. Thus, the inmate did not come before the courts as one who was "innocent," but as one who had been convicted by due process of law. The Court posited that Texas' refusal to entertain Herrera's newly discovered evidence eight years after his conviction did not transgress any principle of fundamental fairness.
 
 # [[4 - The Making of Constitutional History — Precedent#^bc689b|Casey v Planned Parenthood]]
+
+^9c55f5
+
 ## Planned Parenthood v. Casey - 505 U.S. 833, 112 S. Ct. 2791 (1992)
+
+^5c46e0
+
 ### RULE:
 The Court reaffirms Roe v. Wade's essential holding, which has three parts. First is a recognition of the right of the woman to choose to have an abortion before viability and to obtain it without undue interference from the State. Before viability, the State's interests are not strong enough to support a prohibition of abortion or the imposition of a substantial obstacle to the woman's effective right to elect the procedure. Second is a confirmation of the State's power to restrict abortions after fetal viability, if the law contains exceptions for pregnancies which endanger the woman's life or health. And third is the principle that the State has legitimate interests from the outset of the pregnancy in protecting the health of the woman and the life of the fetus that may become a child. These principles do not contradict one another.
 
