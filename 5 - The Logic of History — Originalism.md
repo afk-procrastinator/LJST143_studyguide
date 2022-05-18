@@ -2,7 +2,7 @@
 ```
 number:: 5
 count:: 4
-complete:: no
+complete:: 3/4, case
 ```
 
 # [[Constitution.pdf]]
@@ -440,14 +440,83 @@ No law varying the compensation for the services of the Senators and Representat
 - limits between CL, statute, cooperations, etc. aren't even defined in UK! 
 - words used as to exchange ideas
 	- but no language has enough words to say every single idea
-	- innacuracy is inherent
+	- inaccuracy is inherent
 	- meaning will always be doubtful by nature of language itself
 - issues: indistinctness of the object, imperfection in perception, inadequacy of the vehicle -> all lead to obscurity 
 	- and a new const will have to face them all 
+- constitution as "aware" of these contradictions? 
+	- many differnt views — many different divisions within the US (state, class, etc)
+- history of people debating over stuff is kinda depressing, but they can learn lessons from it: 
+> The first is, that the convention must have enjoyed in a very singular degree, an exemption from the pestilential influence of party animosities; the diseases most incident to deliberative bodies, and most apt to contaminate their proceedings. The second conclusion is, that all the deputations composing the convention, were either satisfactorily accommodated by the final act; or were induced to accede to it, by a deep conviction of the necessity of sacrificing private opinions and partial interests to the public good; and by a despair of seeing this necessity diminished by delays or by new experiments.
 # [[Rakove; Original Meanings.pdf]]
-
 ^ea1edb
-
+- a narrative/contemplation on the constitution, pretty much 
+- hard to guague future effects during the convention
+	- sound history (per madison) could never be written by the participants, however intimate their knowledge — kinda like trauma? pg 2
+- even though stuff like memoirs are bad and historians distrust, we still turn to them... 
+- notes allow us to now only see results, but *how* they got there
+- wanted for people to write an "unbiased" history — is it possible at all? 
+	- can we even know whether bias is there? 
+	- there was bias in the fact that they didn't want bias! 
+- there can be no single story for an event!! pg 5
+	- mention of dramatic narrative as well
+- another problem: scarce information 
+- the idea that there was a concrete idea of what the const meant EVEN when it was written is wrong! 
+	- plenty of records of the debates show how different everyone's ideas were
+		- and the wide variety of material pulled from, domestically and internationally 
+- bias, perspective, intelligibility of action is an issue **in all kinds of historical writing**
+	- instead, accept it, and see what we can learn from it! 
+---
+- second section on meaning, intention, understanding 
+	- intention: forethought, purpose, good for framers or amendment drafters
+		- best applied to the purposes of its authors
+	- understanding: impressions and interpretations by the *original readers* — citizens, etc. 
+		- what those who weren't involved with the act thought!
+			- and thus much more varied
+- originalism as more than just finding meaning — it's saying *why* that meaning should be followed?
+	- regardless of loose/strictness, all appeals go back to history
+		- but historians proper don't care — they have different jobs
+	- more so for jurisprudence? 
+- questions continue to this day 
+- historians shouldn't decide on the question of law, but they can provide context and information that's helpful! 
+--- 
+- over time, the questions hgave gotten harder with more groups and views
+	- even the founding of the contitution is one of struggle! 
+- finding the differences between articles of confederation and constitution is easy — but finding the *meaning* is much harder 
+- need to look at value of the evidence and the types of evidence, four sources:
+	- textual
+		- debates and conventions
+		- external commentary
+	- contextual
+		- broad notions of government
+		- and what they thought of the constitution specifically 
+- all of these are good and bad for different ways 
+- this "story" as one that has been highly studied and used
+	- same bits of evidence over and over again! 
+	- a=but these were *real* people they are writing about! 
+		- so the dramatic structure matters less than the intellectual/political structure
+- so issue is finding the relation between decisions that seem only to involve discrete decisions 
+- plus, the whole time, they had to think about the actual public, regions, taxes, etc. 
+- true task is to find a middle ground between principle and specific interests! 
+- ratification records as slightly better:
+	- provide prior deliberations and evidence
+	- also shows how the constitution was understood at the time of adoption! 
+- so our modern understanding of the constitution inherently includes all of those struggles and conflicts!
+	- but at the end of the day, a binary choice: approve or reject 
+- per madison, meaning of const can be answered in the *debates* but not the intentions of framers
+	- have to look at the concrete event — became supreme law because it was ratified, not b/c it was proposed 
+- trying to "backtrack" the influences and inspirations: need to distinguish principles from forms of government 
+	- principles were easy
+	- but forms were must more complex 
+- enlightenment as the general context for the constitution 
+	- its adoption as the culmination of a massively long and substantial history:
+- four sections, outlined on pg 24-> 
+	- most important was the history of other written constitutions in the US
+		- practicing theory, but also new experiences to learn from! 
+- same as all efforts to explain the origin/intention of texts is interpretations themselves
+	- but historians/scholars can help with this bit 
+- diverse in approaches due to different questions — i.e. btwn historians, legal thinkers, etc. 
+ > The forms of historical argumentation employed on both the right and left margins of contemporary scholarship (and politics) are not driven, of course, by the historians old-fashioned and perhaps naïve desire to get the story right for its own sake. They represent, instead, only another chapter in the saga of the American search for a usable past. Historians certainly help this search to go forward, but they may also suggest why its goal is (and should remain) elusive. By taking the problem of “originalism” seriously, by considering the uses and potential misuses of different forms of evidence, it may be possible to advance a debate that is very much about a specific moment in history but is not about history alone.
 # [[Heller v DC.pdf]]
 
 ^cacccf
