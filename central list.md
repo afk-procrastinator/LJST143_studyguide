@@ -4,7 +4,7 @@ table count as count, complete as complete
 from #notes 
 sort title asc 
 ```
-
+total: 34
 # readings:
 [[1 - The Meaning and Rhetoric of History]]
 [[2 - Evidence and Knowledge — History, Proof, and the Demand for Judgment]]
@@ -19,7 +19,7 @@ sort title asc
 
 # unread:
 - [ ] [[Herrera v Texas.pdf]]
-- [ ] [[Rehnquist; The Notion of Living Text.pdf]]
+- [x] [[Rehnquist; The Notion of Living Text.pdf]]
 - [ ] Goodrich
 - [ ] Montoya v US
 
@@ -29,5 +29,4 @@ sort title asc
 - narrativity
 - ghost 
 - autonomy
-
 - the *spaces* between the cases

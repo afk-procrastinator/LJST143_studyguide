@@ -4,8 +4,8 @@ number:: 4
 count:: 4
 complete:: 2/4, cases
 ```
-# texts:
-## [[Schauer; Precedent.pdf]]
+
+# [[Schauer; Precedent.pdf]]
 ^96b7d4
 - basically, why do we follow precedent? what defines something as a precedent? 
 - the treatment of event in X like Y in the past — only bc of that — means trading X with Y if X occurs again
@@ -146,9 +146,9 @@ complete:: 2/4, cases
 	- precedent as something flexible, can apply it to different contexts
 - offers the idea of experimenting in different institutions, levels of risk, etc. — 34
 	- and then use precedent when we need! 
-## [[Casey v Planned Parenthood.pdf|Casey v Planned Parenthood]] 
+# [[Casey v Planned Parenthood.pdf|Casey v Planned Parenthood]] 
 ^bc689b
-## [[Rehnquist; The Notion of Living Text.pdf]]
+# [[Rehnquist; The Notion of Living Text.pdf]]
 
 ^406221
 
@@ -199,6 +199,6 @@ complete:: 2/4, cases
 - shouldn't be easy for people to shove in their own opinions via law 
 - final paragraph: 
 	- "To the extent that it makes possible an individual's persuading one or more appointed federal judges to impose on other individuals a rule of conduct that the popularly elected branches of government would not have enacted and the voters have not and would not have embodied in the Constitution, the brief writer's version of the living Constitution is genuinely corrosive of the fundamental values of our democratic society." — 14
-## [[Ramos v Louisiana.pdf]]
+# [[Ramos v Louisiana.pdf]]
 
 ^fe0bd3

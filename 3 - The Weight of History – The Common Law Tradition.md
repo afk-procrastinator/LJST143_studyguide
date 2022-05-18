@@ -5,7 +5,7 @@ count:: 3
 complete:: 2/3
 ```
 
-## [[Blackstone; Commentaries.pdf]]
+# [[Blackstone; Commentaries.pdf]]
 
 ^e6c7a6
 
@@ -166,12 +166,12 @@ complete:: 2/3
 	- acts of parliaments must be **possible** to be acted 
 - centrality of equity:
 > 	These are the several grounds of the laws of England: over and above which, equity is also frequently called in to assist, to moderate, and to explain it. What equity is, and how impossible in it's very essence to be reduced to stated rules, hath been shewn in the preceding section. I shall therefore only add, that there are courts of this kind established for the benet of the subject, to correct and soften the rigor of the law, when through it's generality it bears too hard in particular cases; to detect and punish latent frauds, which the law is not minute enough to reach; to enforce the execution of such matters of trust and condence, as are binding in conscience, though perhaps not strictly legal; to deliver from such dangers as are owing to misfortune or oversight; and, in short, to relieve in all such cases as are, bona fide, objects of relief. This is the business of our courts of equity, which however are only conversant in matters of property. For the freedom of our constitution will not permit, that in criminal cases a power should be lodged in any judge, to construe the law otherwise than according to the letter. This caution, while it admirably protects the public liberty, can never bear hard upon individuals. A man cannot suer more punishment than the law assigns, but he may suer less. The laws cannot be strained by partiality to inict a penalty beyond what the letter will warrant; but in cases where the letter induces any apparent hardship, the crown has the power to pardon.
-## [[Parker; ch. 1.pdf]], [[Parker; ch. 3.pdf]], [[Parker; misc pages.pdf]]
+# [[Parker; ch. 1.pdf]], [[Parker; ch. 3.pdf]], [[Parker; misc pages.pdf]]
 
 ^7469ac
 
-### introduction, chapter 1:
-#### common law, democracy, history: a modernist tradition of reading the past
+## introduction, chapter 1:
+### common law, democracy, history: a modernist tradition of reading the past
 - common law used widely across the US until end of 19th century
 	- very english, judicial so anti-democratic, etc. 
 - kent quote on 1-2
@@ -198,7 +198,6 @@ complete:: 2/3
 		- Holmes saw CL as "insensitive" to history
 			- law as "experience" not logic
 > 				But the common law, Holmes suggested, was ultimately irreducible to logic. Logic was not its foundation. Like all law, the common law had to be seen, instead, as the product of nothing but history, as something that had arisen and developed in time, as something without ahistorical foundations
-> 				
 - also, CL as repeating the past for no reason
 - for law to be just, it had to be just in the present as a matter of self-reflection — can't just be blindly looking at the past 
 	- various aspects of CL — logic and precedent oriented
@@ -215,7 +214,7 @@ complete:: 2/3
 	- but taking this view makes it harder to look at the past, makes it seem like a random collection of decisions, hard to figure out definitions and relations of things
 - look to the world *before* the modernist reconstruction, helps understand CL more
 	- and applicable to today!
-#### nineteenth century common law thought
+### nineteenth century common law thought
 > In order to begin exploring the relationships among democracy, law, and history before modernism, one has to distance oneself from one of the critical assumptions of modernist historical thought, namely that an iconoclastic dismantling of the foundations of phenomena through the technique of revealing their temporal origins will clear ground, enable critical self-reflection, and open up the world for reimagining and remaking. — 11
 - lets us imagine the subject as fully blank, unconstrained, unencumbered
 - 19th c had a lot of real restraints
@@ -265,16 +264,29 @@ complete:: 2/3
 - CL as surviving due to all the constant change at the time! and central to the time's development
 - CL lawyers could argue that when CL is joined with history, you can see that CL courts are better at seeing what the society wants 
 - wider breakdown resulted in new ways to look at history, the state, etc.
-#### structure of book, aka general argument
+### structure of book, aka general argument
 - difference between 19th and 20th c legal thought is very similar 
 	- different, but both useful 
 - a history *of* history: 
 > To be sure, identifying the “dominant” historical imagination for any given period is fraught with perils. Over the course of the nineteenth cen tury, there were many ways of conceiving of the movement of history. Each of the periods I identify contains many different historical logics, some pointing backward to earlier periods, others anticipating future periods, yet others simply different from one another. Each period, in other words, is inevitably complex. One would expect no less. The point of identifying a period for me, then, is not to make an argument about periods, but to identify a historical imagination, unarguably influential at a particular time, and to show how it was shared, appropriated, and ~o transformed by legal thinkers. My technique has been to work back from E the principal legal texts, to rely upon the historical imagination of legal thinkers as a guide to reconstructing the historical imagination of any given period. — 24
 
-### chapter 3: common law thought after the american revolution
-#### the loneliness of consent
+## chapter 3: common law thought after the american revolution
+### the loneliness of consent
+---
+### conclusion
+- non-historicality of CL like immemoriality and insensibility — mysterious 
+	- only legislature can make law
+- but how did CL thinkers see a future for CL in the US 
+> We have already seen that American common law thinkers imagined the common law to be a method of effecting the movement of history even as they subjected the English common law to history. At the same time, they were able to argue that the common law was, as the most consensual of all laws, perfectly consistent with America’s experimental, consent-based polities. But did this emphasis on the consensual nature of the common law mean that American common law thinkers were receptive to the proliferation of local customs in America?
+- over time, local customs grew 
+	- but generally, distaste for them — BOTH from Federalists and pro-CL thinkers
+	- wanted to concentrate power to declare the customs in the hands of CL judge 
+		- a homogeneous landscape
+- but the idea of a "clean sate" 
+---
+## misc pages: 
 
-## [[Scalia; Common Law Courts.pdf]]
+# [[Scalia; Common Law Courts.pdf]]
 
 ^ebe0d8
 

@@ -50,6 +50,13 @@ complete:: no
 
 ^86eb17
 
-## [[Walzer; Regicide and Revolution.pdf]]
+# [[Walzer; Regicide and Revolution.pdf]]
 
 ^94df2e
+- how would we put a king on trial? 
+	- if they are truly sovereign, they don't listen to law, but law
+- charging with law as a greater wrong than assassination
+	- example of france
+- assassination vs execution 
+	- execution as political — there has a legal basis, a legal wrong 
+	- revolution is justifiable when it's for just ends 
