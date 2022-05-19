@@ -1,4 +1,4 @@
-Hayden White: the value of narrativity
+# Hayden White: the value of narrativity
 1. Narrativity is deeply human, we use narrative to communicate and we find familiarity in it, even when we do not share a language
 2. Difference between an annal, a chronicle, and a full history
 	1. Annals are just a list of events, without possibility or the info you need to derive true meaning, whereas a chronicle starts to do so, without the final conclusion that sort of marks a history
@@ -7,17 +7,17 @@ Hayden White: the value of narrativity
 3. Narrativity is utilized in order to create a cohesive story when  cohesive story does not necessarily exist; it is only through this that we can derive some kind of meaning/moral from them
 4. The moral historical account is presented as an objective thing, but quite frankly it isn't
 5. it is a construction that seeks to create that 
-Palsgraf: 
+# Palsgraf: 
 1. Quintessential thing for torts law
 2. basic question here is where liability lies in this case; is it the fault of the railroad company or is no one at fault and is it really just somewhat unfortunate 
 3. Determines what is legally a wrong, and what isn't 
 4. Defines negligence, which is then used as precedent case for a lot of other torts cases
-Noonan: 
+# Noonan: 
 1. Different ways of characterizing people, omission/inclusion of certain facts and identifiers have the ability to alter the nature of the case (for example, including gender or name to humanize versus excluding to make it feel less personal)
 2. nature of the accident, background like what kind of wrong this was, who was the jury and who was the judge in this case, all of these factors combine to create a unique understanding of the case
 3. There's also the goal of creating a unanimous or seemingly obvious conclusion 
 4. Same as what Ferguson mentions
-Ferguson
+# Ferguson
 1. Monologic voice: courtroom discourse inevitably will require some kind of focus on spoken words 
 2. Judicial voice tries to amalgamate al other voices into one, it must speak entirely for itself, and has no other choice
 3. justices can highlight the importance of the decisions they're making
@@ -195,7 +195,7 @@ Ferguson
 - centrality of equity:
 > 	These are the several grounds of the laws of England: over and above which, equity is also frequently called in to assist, to moderate, and to explain it. What equity is, and how impossible in it's very essence to be reduced to stated rules, hath been shewn in the preceding section. I shall therefore only add, that there are courts of this kind established for the benet of the subject, to correct and soften the rigor of the law, when through it's generality it bears too hard in particular cases; to detect and punish latent frauds, which the law is not minute enough to reach; to enforce the execution of such matters of trust and condence, as are binding in conscience, though perhaps not strictly legal; to deliver from such dangers as are owing to misfortune or oversight; and, in short, to relieve in all such cases as are, bona fide, objects of relief. This is the business of our courts of equity, which however are only conversant in matters of property. For the freedom of our constitution will not permit, that in criminal cases a power should be lodged in any judge, to construe the law otherwise than according to the letter. This caution, while it admirably protects the public liberty, can never bear hard upon individuals. A man cannot suer more punishment than the law assigns, but he may suer less. The laws cannot be strained by partiality to inict a penalty beyond what the letter will warrant; but in cases where the letter induces any apparent hardship, the crown has the power to pardon.  
 
-Parker: 
+# Parker: 
 1. Common law came with heavy ideological freight, as in it had resisted the encroachments of would-be absolute monarchs in the name of England's ancient common law freedoms - the US had absorbed this readily
 2. 1900, the popularity of common law had started to fade slightly
 3. Progressive era led to a heavy assault on the common law tradition, as people sought to restore democratic majorities as the main legislative force
@@ -220,7 +220,7 @@ Parker:
 22. Common law has the advantage of experience; people have lived basedon it and according to it, therefore it has that advantage compared to other institutions
 23. This is based on the argument that all customs stem from voluntary adoption and therefore consent
 24. Spooner argued that natural law was something that would ultimately prevail, despite man made law potentially going against it 
-Scalia: 
+# Scalia: 
 1. Offers a critique of the common law method
 2. The main problem he brings up is that the Common Law, while great in theory, is problematic in practice because of how it interacts with democracy
 3. Specifically, the common law judge will adopt the mindset of trying to find the best possible outcome in every case, which may create inconsistencies between cases and thus destroy the stability and legitimacy of law, which was one of the main draws of the common law in the first place
@@ -237,7 +237,7 @@ Scalia:
 14. Argues that the constitution requires an expansive rather than narrow interpretation, although without going too far and therefore violating the limits of the text
 15. Has concerns that judges don't even look at the original text and go straight towards what they believe to be a desirable outcome
 16. Argues that the living Constitution idea works so long as it is meant to remove restrictions against democratic government, meaning we give people more power and more ability to make their own decisions
-Schauer: 
+# Schauer: 
 1. Forward looking aspect: traditional perspective on precedent has focused on the use of yesterday's precedents in today's decisions
 2. However, precedent is important in that we should look at today's precedents as tomorrow's precedents as well - any decision made today will most likely be used later down the road as well
 3. Passage of time complicates things: we will continuously reinterpret the past as we proceed into the future; thus, we keep discussing yesterday's decisions
@@ -277,10 +277,10 @@ Schauer:
 30. Precedent and stability; arguments premised on the values of reliance, predictability, and decisional efficiency all share a focus on stability for stability's sake
 31. This ties back to the Court and the judicial system in general being one that is somewhat conservative by nature and a little bit anti-progress
 32. Precedent and the concept become less murky when we follow examples like these, as they force us to look at those settings where the constraints of precedent are largely absent 
-Federalist: 
+# Federalist: 
 1. this is a novel undertaking, there are some who skimmed through it, basically looking for a problem with the Constitution so they could condemn it
 2. Explains some of the difficulties, namely that common law and many other sources of law do not have a very clear idea of their boundaries 
-Rakove - perils of originalism 
+# Rakove - perils of originalism 
 1. Madison did his best to preserve as much as he could when it came to materials from the Constitutional convention 
 2. Meaning, intention, and understanding are three key terms here
 3. Interpretation is done with the hope of recovering the original meaning of the Constitution 
@@ -293,7 +293,7 @@ Rakove - perils of originalism
 10. They provide good evidence in how the Constitution and its provisions were understood at the moment of adoption; how they understood it should be overly present within these ideas
 11. We can also look at different sources that inspired the founders, like Hume 
 12. However, not easy to link these together 
-Hart: Sovereign and subject
+# Hart: Sovereign and subject
 1. Obedience is not free from complexities; typically suggest deference to authorities and not just compliance with orders backed by threats 
 2. Both habit and obedience could b conceded to have an obvious application; however, when law is onerous it does not have the strong inclination of eventual compliance 
 3. Not necessarily the case that just because a King was obeyed that their offspring would also be obeyed by the same subjects
@@ -323,7 +323,7 @@ Hart: Sovereign and subject
 27. We just have to show that the rules that qualify the legislator do not confer superior authority on those who also have authority over other territory 
 28. Must distinguish between a legally unlimited legislative authority and one which, though limited, is supreme in the system 
 29. legislator's habits of obedience are at the most of some indirect evidential importance 
-Walzer: 
+# Walzer: 
 1. There are inherent difficulties to putting a king on trial: Namely, the king cannot be judged by anyone in he land because they are all his subjects and he answers to a higher power
 2. Not law unto himself, but just not governed by terrestrial law
 3. King can be a sinner and a tyrant, any accusation of tyranny would be very serious 
@@ -345,21 +345,21 @@ Walzer:
 19. Thus, the murder of the inviolable sovereign makes it impossible to return to that state
 20. A trial can be defended politically, but it may not follow that it is morally justified 
 21. Revolutionary justice is defensible whenever it points the way to everyday justice; legitimacy of the king's trial first lies in whether it is similar to a ordinary judicial proceeding
-Goodrich: 
+# Goodrich: 
 1. How is the other construed in the legal sphere: how has the legal sphere refused to pay attention to it? 
 2. Best depicted not in terms of law's own image, but rather in terms of the uneven exchange that characterizes the flawed dialogue of bureaucratic discourses
-Caruth: Trauma: 
+# Caruth: Trauma: 
 1. how does trauma force us to rethink our notions of experience and of communication 
 2. trauma means that the event is not fully assimilated or experienced fully, but only belatedly or over time
 3. Survivors uncertainty is not a simple amnesia, event returns insistently and against their will
 4. This is the crisis of truth, trauma is, to a degree, an inability to experience something fully when it first happens
 5. Trauma is not experienced as a mere repression or defense, but as a temporal delay that carries the individual beyond the shock of the first moment
-Caruth: Recapturing the Past
+# Caruth: Recapturing the Past
 1. Traumatic recollection is not just the recollection of a simple memory 
 2. Trauma is something that is something thoroughly unconscious, as it may rear its head at any given moment
 3. Truth of the event defies simple comprehension, and the flashback or traumatic reenactment conveys that it is both the truth of an event and the truth of its incomprehensibility 
 4. Impossibility of a comprehensible story does not the denial of a transmissible truth, it just asks the question of how we may start with dealing with this impossibility 
-Galanter: 
+# Galanter: 
 1. Injustice is pervasive: how do we deal with events that we recognize are in fact unjust? 
 2. remedial justice inevitably disturbs existing expectations, addressing one prior injustice may create another one
 3. Consumes resources, and remedies are administered by institutions that inevitably may create their own injustices
@@ -374,7 +374,7 @@ Galanter:
 12. Why does it matter? 
 13. How might it be done? 
 14. How we address old wrongs tells us something about ourselves and the way we view our relation to history 
-Minow: Breaking the Cycles of Hatred
+# Minow: Breaking the Cycles of Hatred
 1. Can we learn from past injustices and how they were addressed? 
 2. Dwelling is unfortunate and potentially dangerous, but it is possible that forgetting altogether is worse 
 3. Vengeance can just create an never ending cycle of misery

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "central list.md",
+            "file": "Laws_History_Final_Notes_and_Study_Guide.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "central list.md",
+                "file": "Laws_History_Final_Notes_and_Study_Guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "central list.md"
+                "file": "Laws_History_Final_Notes_and_Study_Guide.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "central list.md",
+                "file": "Laws_History_Final_Notes_and_Study_Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,12 +140,12 @@
   },
   "active": "5194c610eeb88618",
   "lastOpenFiles": [
-    "central list.md",
-    "1 - The Meaning and Rhetoric of History.md",
     "Laws_History_Final_Notes_and_Study_Guide.md",
     "general.md",
-    "case summaries.md",
     "reading categories.md",
+    "case summaries.md",
+    "central list.md",
+    "1 - The Meaning and Rhetoric of History.md",
     "9 - Law and Historical Trauma.md",
     "10 - The Limits of Repair.md",
     "8 - Narrating the History of the Other.md",

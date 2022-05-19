@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasDungeon",
       "FasBook",
       "FasBrain",
       "FasQuestion",
-      "FabCreativeCommonsBy",
-      "RiStickyNoteFill"
+      "FabCreativeCommonsBy"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -28,5 +28,9 @@
   "central.md": "RiBarChartGroupedLine",
   "outline.md": "FasMapLocation",
   "notes/books": "FasBook",
-  "texts": "FasBook"
+  "texts": "FasBook",
+  "case summaries.md": "FabCreativeCommonsBy",
+  "central list.md": "FasList",
+  "reading categories.md": "FabPhabricator2",
+  "general.md": "FasDungeon"
 }
