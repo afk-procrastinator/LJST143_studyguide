@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Laws_History_Final_Notes_and_Study_Guide.md",
+            "file": "3 - The Weight of History – The Common Law Tradition.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laws_History_Final_Notes_and_Study_Guide.md",
+                "file": "3 - The Weight of History – The Common Law Tradition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laws_History_Final_Notes_and_Study_Guide.md"
+                "file": "3 - The Weight of History – The Common Law Tradition.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laws_History_Final_Notes_and_Study_Guide.md",
+                "file": "3 - The Weight of History – The Common Law Tradition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,15 +140,15 @@
   },
   "active": "5194c610eeb88618",
   "lastOpenFiles": [
+    "3 - The Weight of History – The Common Law Tradition.md",
+    "4 - The Making of Constitutional History — Precedent.md",
+    "5 - The Logic of History — Originalism.md",
+    "6 - Legal Temporality.md",
     "Laws_History_Final_Notes_and_Study_Guide.md",
     "general.md",
     "reading categories.md",
     "case summaries.md",
     "central list.md",
-    "1 - The Meaning and Rhetoric of History.md",
-    "9 - Law and Historical Trauma.md",
-    "10 - The Limits of Repair.md",
-    "8 - Narrating the History of the Other.md",
-    "7 - History and Liberal Ideology — The Continental Enlightenment and its Others.md"
+    "1 - The Meaning and Rhetoric of History.md"
   ]
 }

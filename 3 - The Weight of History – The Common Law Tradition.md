@@ -274,7 +274,7 @@ complete:: 2/3
 ### the loneliness of consent
 ---
 ### conclusion
-- non-historicality of CL like immemoriality and insensibility — mysterious 
+- non-historicality of CL like immemorially and insensibility — mysterious 
 	- only legislature can make law
 - but how did CL thinkers see a future for CL in the US 
 > We have already seen that American common law thinkers imagined the common law to be a method of effecting the movement of history even as they subjected the English common law to history. At the same time, they were able to argue that the common law was, as the most consensual of all laws, perfectly consistent with America’s experimental, consent-based polities. But did this emphasis on the consensual nature of the common law mean that American common law thinkers were receptive to the proliferation of local customs in America?
@@ -285,7 +285,50 @@ complete:: 2/3
 - but the idea of a "clean sate" 
 ---
 ## misc pages: 
-
+- pro and anti-slavery thinkers wanted social/natural laws underlying 
+	- using social or natural law to make sense of the world *emphasises the gap between politics and its limit*
+- speaks about Somersett — no real impact, but denied that slavery is under UK CL 
+	- must be enabled by a positive law
+		- for mansfield, CL had that immemoriality? 
+- some argued that slavery in specific areas was a matter of custom/useage
+	- so distinguished from positive law
+- CL as able to get "potency by long usage"
+- contrary to mansfield, if custom is basis for slavery, no express law is needed to establish
+- when const was made, slavery was positive in the south **and** had become a habit/general use 
+- example of Lysander Spooner — antislavery lawyer who showed how they subjected all laws, including customs, to **natural laws**
+	- somewhat of an anarchist...?
+- when thinking about what law really *is*, he turns to physical world: 
+	- page 180
+	- no difference between human and nonhuman laws
+		- but true laws were to be permanent and invariable, that was what was important...
+- only a few man made laws could be as invariable as natural laws — all others are arbitrary
+	- and are not subject to obedience 
+	- thus, *no law but natural law*
+- slavery as anti-natural law, but in long-term, he saw natural as winning! 
+	- worried about democracy and the will of the majority due to it's impermanence and subjectivity to change
+- constitutions as not exceptions to the law rule — equally unstable 
+	- "Slavery, if it can be legalized at call, can be legalized only by positive legislation. Natural law gives it no other aid. *Custom imparts to it no legal sanction.*"
+- CL wasn't important to him at all!
+- legislative laws were useful as long as they were carrying natural law into effect, but typically avoided 
+	- we cannoy avoid learning natural law as we live with people
+	- on average, we will see all actions as just or unjust
+- explicitly equates natural and common law 
+	- vast majority as confirming to "natural principles"
+	- so thus CL courts might be the best to "see" natural law 
+- good passage on 184
+- sawyer — as similar to spooner 
+	- where spooner was physical nature, sawyer was biological
+		- slavery as inequality based on something beyond the reach of human laws/means 
+			- ==paralleled to things like trauma==
+		- looks to history to vindicate the inferiority of blacks 
+- **slavery deriving legitimacy from custom**
+	- had the power of immemoriality 
+- so: CL and nature together — made customs of slavery universal, not particular 
+	- freedom as the exception to the slavery
+	- so could read abolitionists as contrary to nature and common law 
+		- likens them to french revolutionaries! 
+- both spooner and sawyer use the same tactic — but different results 
+	- CL still seen as a source of hope(?)
 # [[Scalia; Common Law Courts.pdf]]
 
 ^ebe0d8
