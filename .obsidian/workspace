@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9 - Law and Historical Trauma.md",
+            "file": "central list.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 - Law and Historical Trauma.md",
+                "file": "central list.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9 - Law and Historical Trauma.md"
+                "file": "central list.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 - Law and Historical Trauma.md",
+                "file": "central list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,15 +140,15 @@
   },
   "active": "5194c610eeb88618",
   "lastOpenFiles": [
+    "central list.md",
+    "1 - The Meaning and Rhetoric of History.md",
+    "Laws_History_Final_Notes_and_Study_Guide.md",
+    "general.md",
+    "case summaries.md",
+    "reading categories.md",
     "9 - Law and Historical Trauma.md",
     "10 - The Limits of Repair.md",
     "8 - Narrating the History of the Other.md",
-    "7 - History and Liberal Ideology — The Continental Enlightenment and its Others.md",
-    "general.md",
-    "reading categories.md",
-    "central list.md",
-    "6 - Legal Temporality.md",
-    "Untitled.md",
-    "3 - The Weight of History – The Common Law Tradition.md"
+    "7 - History and Liberal Ideology — The Continental Enlightenment and its Others.md"
   ]
 }
